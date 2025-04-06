@@ -1,0 +1,30 @@
+{
+    "1": {
+        "name": "Цветочная тропинка",
+        "description": "Окутанная нежным ароматом тропинка ведет сквозь зелень...",
+        "adjacent": [
+            2
+        ],
+        "temperature": 18,
+        "weather": "солнечно",
+        "dropped_items": [],
+        "last_herb_spawn": "2025-03-21T20:07:02.037464",
+        "last_mouse_spawn": "2025-03-21T20:07:02.037464",
+        "herb_count": 7,
+        "mouse_count": 1
+    },
+    "2": {
+        "name": "Утиный пруд",
+        "description": "Тихий пруд окружен камышами...",
+        "adjacent": [
+            1
+        ],
+        "temperature": 16,
+        "weather": "облачно",
+        "dropped_items": [],
+        "last_herb_spawn": "2025-03-08T00:00:00",
+        "last_mouse_spawn": "2025-03-08T00:00:00",
+        "herb_count": 0,
+        "mouse_count": 0
+    }
+}
