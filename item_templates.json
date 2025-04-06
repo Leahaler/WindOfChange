@@ -1,0 +1,22 @@
+{
+    "templates": {
+        "mouse": {
+            "name": "Мышь",
+            "type": "food",
+            "hunger_restore": 20,
+            "description": "Маленькая добыча, восстанавливает голод."
+        },
+        "cobweb": {
+            "name": "Паутина",
+            "type": "herb",
+            "heal_restore": 10,
+            "description": "Используется для остановки кровотечения."
+        },
+        "tansy": {
+            "name": "Пижма",
+            "type": "herb",
+            "heal_restore": 5,
+            "description": "Лечит кашель и снимает жар."
+        }
+    }
+}
