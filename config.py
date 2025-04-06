@@ -1,1 +1,1 @@
-TOKEN = '7836604232:AAFAeSdFWyUKEBHPcoJgl5oudg7NgEG-MlI'
+TOKEN = 'token_id'
